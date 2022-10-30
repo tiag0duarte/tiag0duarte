@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiag0duarte
 - 👀 I’m interested in learning code and creating fun projects
-- 🌱 I’m currently learning python and flutter
+- 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on code-jams possibily
 
 <!---
